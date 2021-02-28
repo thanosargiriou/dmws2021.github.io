@@ -1,24 +1,48 @@
 # Project team members listed below will appear on the /team page
 
-- name: Philip J. Fry
-  role: Delivery boy # Will appear next to name
-  image: assets/img/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
+- name: Prof. Athanassios Argiriou
+  role: Greek team coordinator # Will appear next to name
+  image: assets/img/argiriou.jpg # Can be external link
   description: > # Can be Markdown
-    Protagonist, from the 20th century. Many times great-uncle to Professor Hubert Farnsworth.
-  orcid: 0000-0000-0000-0000
-  email: your.email@example.com
-  github: github_name
+    Project management, tasks supervision, consulting on the scientific scope of the project.
+  # orcid: 0000-0000-0000-0000
+  email: athanarg@upatras.gr
+  github: thanosargiriou
   twitter: twitter_name
 
-- name: Turanga Leela
-  role: Captain
-  image: assets/img/leela_artem-kovalev-1403404-unsplash.jpg
+- name: Orestis Panagopoulos
+  role: Researcher
+  image: assets/img/panagopoulos.jpg
   description: >
-    Mutant cyclops. Leela is spaceship captain, pilot, and head of all 
-    aviation services on board the [Planet Express Ship](https://en.wikipedia.org/wiki/Planet_Express_Ship). 
+    MSc Physicist, PhD candidate in LapUp. Working on optical simulations data analysis and experimental testing.
+    Site author.
+  email: orestis.panagopou@upatras.gr
+  github: orestispanago
 
-- name: Professor Hubert J. Farnsworth
-  role: CEO & Owner
-  image: assets/img/farnsworth_angelo-abear-1662775-unsplash.jpg
+- name: Alex Dokouzis
+  role: Researcher
+  image: assets/img/dokouzis.jpg
   description: >
-    Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).
+    MSc Physicist, PhD candidate in LapUp. Working on optical simulations and experimental testing.
+  email: alexdokouzis@upatras.gr
+
+- name: George Kosmopoulos
+  role: Researcher
+  image: assets/img/kosmopoulos.jpg
+  description: >
+    MSc Physicist, PhD candidate in LapUp. Working on management and dissemination.
+  email: giokosmopo@upatras.gr
+
+- name: Kostas Vylliotis
+  role: Researcher
+  image: assets/img/vylliotis.jpg
+  description: >
+    MSc Physicist, PhD candidate in LapUp. Working on dissemination.
+  email: phy4885@upatras.gr
+
+- name: Kostas Katsidimas
+  role: Technician
+  image: assets/img/katsidimas.jpg
+  description: >
+    MSc Electrical Engineer, PhD candidate in LapUp. Working on experimental setup.
+  email: katsidim@physics.upatras.gr
