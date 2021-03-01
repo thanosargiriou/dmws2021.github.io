@@ -1,18 +1,34 @@
 # Project team members listed below will appear on the /team page
 
-- name: Prof. Athanassios Argiriou
-  role: Greek team coordinator # Will appear next to name
-  image: assets/img/argiriou.jpg # Can be external link
+- name: Prof. Dr.-Ing. Spiros Alexopoulos
+  role: German team coordinator # Will appear next to name
+  image: assets/img/team/alexopoulos.jpg # Can be external link
   description: > # Can be Markdown
     Project management, tasks supervision, consulting on the scientific scope of the project.
   # orcid: 0000-0000-0000-0000
+  email: alexopoulos@sij.fh-aachen.de
+
+- name: Prof. Athanassios Argiriou
+  role: Greek team coordinator # Will appear next to name
+  image: assets/img/team/argiriou.jpg # Can be external link
+  description: > # Can be Markdown
+    Project management, tasks supervision, consulting on the scientific scope of the project.
+  orcid: 0000-0000-0000-0000
   email: athanarg@upatras.gr
   github: thanosargiriou
   twitter: twitter_name
 
+- name: Göttsche , Joachim Dr. rer. nat.
+  role: Researcher # Will appear next to name
+  image: assets/img/team/gottsche.jpg # Can be external link
+  description: > # Can be Markdown
+    Description
+  # orcid: 0000-0000-0000-0000
+  email: goettsche@sij.fh-aachen.de
+
 - name: Orestis Panagopoulos
   role: Researcher
-  image: assets/img/panagopoulos.jpg
+  image: assets/img/team/panagopoulos.jpg
   description: >
     MSc Physicist, PhD candidate in LapUp. Working on optical simulations data analysis and experimental testing.
     Site author.
@@ -21,28 +37,28 @@
 
 - name: Alex Dokouzis
   role: Researcher
-  image: assets/img/dokouzis.jpg
+  image: assets/img/team/dokouzis.jpg
   description: >
     MSc Physicist, PhD candidate in LapUp. Working on optical simulations and experimental testing.
   email: alexdokouzis@upatras.gr
 
 - name: George Kosmopoulos
   role: Researcher
-  image: assets/img/kosmopoulos.jpg
+  image: assets/img/team/kosmopoulos.jpg
   description: >
     MSc Physicist, PhD candidate in LapUp. Working on management and dissemination.
   email: giokosmopo@upatras.gr
 
 - name: Kostas Vylliotis
   role: Researcher
-  image: assets/img/vylliotis.jpg
+  image: assets/img/team/vylliotis.jpg
   description: >
     MSc Physicist, PhD candidate in LapUp. Working on dissemination.
   email: phy4885@upatras.gr
 
 - name: Kostas Katsidimas
   role: Technician
-  image: assets/img/katsidimas.jpg
+  image: assets/img/team/katsidimas.jpg
   description: >
     MSc Electrical Engineer, PhD candidate in LapUp. Working on experimental setup.
   email: katsidim@physics.upatras.gr
