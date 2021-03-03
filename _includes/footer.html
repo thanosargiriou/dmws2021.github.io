@@ -2,40 +2,12 @@
   <div class="container">
     <div class="row">
       <div class="col-lg">
-        <ul class="list-inline">
-          {% if site.email %}
-            <li class="list-inline-item">
-              <a href="mailto:{{ site.email }}">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-envelope-o fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-          {% endif %}
+          <div class="col-sm-6">
+              <figure>
+                  <img src="/assets/img//espa_logo.png" class="img-fluid float-left ">
+              </figure>
+          </div>
 
-          {% if site.twitter_username %}
-            <li class="list-inline-item">
-              <a href="https://twitter.com/{{ site.twitter_username }}">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-          {% endif %}
-
-          {% if site.github_username %}
-            <li class="list-inline-item">
-              <a href="https://github.com/{{ site.github_username }}">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-          {% endif %}
-        </ul>
       </div>
 
       {% for col in site.data.footer.columns %}
@@ -58,12 +30,56 @@
     </div>
 
     <div class="small mt-2">
-      {% if site.author %}
-        <p>© {{ site.author }}</p>
-      {% endif %}
-      {% if site.data.footer.license %}
-        {{ site.data.footer.license | markdownify }}
-      {% endif %}
+            <div class="container">
+              <div class="row">
+                <div class="col">
+                </div>
+                <div class="col-md-auto">
+                    <ul class="list-inline">
+                      {% if site.email %}
+                        <li class="list-inline-item">
+                          <a href="mailto:{{ site.email }}">
+                            <span class="fa-stack fa-lg">
+                              <i class="fa fa-circle fa-stack-2x"></i>
+                              <i class="fa fa-envelope-o fa-stack-1x fa-inverse"></i>
+                            </span>
+                          </a>
+                        </li>
+                      {% endif %}
+
+                      {% if site.twitter_username %}
+                        <li class="list-inline-item">
+                          <a href="https://twitter.com/{{ site.twitter_username }}">
+                            <span class="fa-stack fa-lg">
+                              <i class="fa fa-circle fa-stack-2x"></i>
+                              <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                            </span>
+                          </a>
+                        </li>
+                      {% endif %}
+
+                      {% if site.github_username %}
+                        <li class="list-inline-item">
+                          <a href="https://github.com/{{ site.github_username }}">
+                            <span class="fa-stack fa-lg">
+                              <i class="fa fa-circle fa-stack-2x"></i>
+                              <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                            </span>
+                          </a>
+                        </li>
+                    {% endif %}
+                    {% if site.author %}
+                      <p>© {{ site.author }}</p>
+                    {% endif %}
+                    {% if site.data.footer.license %}
+                      {{ site.data.footer.license | markdownify }}
+                    {% endif %}
+                </div>
+                <div class="col">
+                </div>
+              </div>
+            </div>
+        </ul>
     </div>
   </div>
 </footer>
@@ -87,11 +103,11 @@
   // Filter cards on ?category=value
   $(document).ready(function() {
     const urlParams = new URLSearchParams(window.location.search);
-    
+
     if (urlParams.has("category") && urlParams.get("category") != "") {
       const category = urlParams.get("category"); // Will return 1st category value + decode URI
       const cleanCategory = $.trim(category.toLowerCase()); // Create category as written in .card data-categories
-      
+
       $(".card").each(function() {
         const cardCategories = $(this).data("categories").split("|");
         // Hide card if it does not contain the selected category
@@ -101,8 +117,8 @@
       });
 
       $(".jumbotron .categories").append(
-        '<a class="badge badge-pill" href="{{ site.archive_permalink | relative_url }}">' + 
-        category + '<span class="close">&times;</span>' + 
+        '<a class="badge badge-pill" href="{{ site.archive_permalink | relative_url }}">' +
+        category + '<span class="close">&times;</span>' +
         '</a>'
       );
     }
