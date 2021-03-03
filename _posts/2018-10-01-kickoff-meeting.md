@@ -1,7 +1,7 @@
 ---
 title: Kickoff meeting
 description: 24-25 September 2018 in Jülich, Germany
-background: "https://images.unsplash.com/photo-1558441440-d4111d18d48f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80"
+background: /assets/img/jullich.jpg
 author: [Orestis Panagopoulos]
 categories: [Meetings]
 ---

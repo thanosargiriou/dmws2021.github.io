@@ -2,7 +2,7 @@
 layout: home
 title: SCoSCo project
 description: Towards developing industrial Solar Heat Collectors
-background: /assets/img/chuttersnap-146799-unsplash.jpg
+background: /assets/img/background.jpg
 permalink: /
 ---
 

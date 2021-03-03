@@ -11,11 +11,10 @@
   email: alexopoulos@sij.fh-aachen.de
 
 - name: Joachim Göttsche Dr. rer. nat.
-  role: Researcher # Will appear next to name
+  role: Head of Department "Efficient Buildings and Systems"
   image: assets/img/team/gottsche.jpg # Can be external link
   description: > # Can be Markdown
-    Description
-  # orcid: 0000-0000-0000-0000
+    Project controlling, ray-tracing, thermal simulation
   email: goettsche@sij.fh-aachen.de
 
 - name: Dümmler Andreas, MSc
@@ -25,15 +24,6 @@
     Description
   # orcid: 0000-0000-0000-0000
   email: goettsche@sij.fh-aachen.de
-
-
-- name: Mani Yousefpour
-  role: Researcher # Will appear next to name
-  image: assets/img/team/yousefpour.jpg # Can be external link
-  description: > # Can be Markdown
-    Description
-  # orcid: 0000-0000-0000-0000
-  email: mani.yousefpour@heliokon.com
 
 # =============================== LapUp ========================================
 
@@ -79,7 +69,7 @@
 
 - name: Kostas Katsidimas, MSc
   role: Technician
-  # image: assets/img/team/katsidimas.jpg
+  image: assets/img/team/nobody.jpg
   description: >
     Electrical Engineer Working on experimental setup.
   email: katsidim@physics.upatras.gr
@@ -88,4 +78,35 @@
 
 # =============================== Heliokon =====================================
 
+- name: Mani Yousefpour
+  role: Researcher # Will appear next to name
+  image: assets/img/team/yousefpour.jpg # Can be external link
+  description: > # Can be Markdown
+    Description
+  # orcid: 0000-0000-0000-0000
+  email: mani.yousefpour@heliokon.com
+
 # =============================== Calpak =======================================
+- name: Panayis Konstantinidis
+  role: General Manager
+  image: assets/img/team/nobody.jpg
+  description: >
+    Responsible for all the decisions regarding the cooperation of Calpak with
+    the other partners of the project.
+  email: pkonstan@calpak.gr
+
+- name: Stathis Xarchis
+  role: Mechanical Engineer
+  image: assets/img/team/nobody.jpg
+  description: >
+    To be the connective link between the demands of the design and the
+    production of the collectors
+  email: xarchis@calpak.gr
+
+- name: Kostas Kefalas
+  role: Head of production
+  image: assets/img/team/nobody.jpg
+  description: >
+    Responsible for manufacturing the collectors according to the demands
+    of the project
+  email: kefalas@calpak.gr
