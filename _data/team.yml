@@ -1,5 +1,7 @@
 # Project team members listed below will appear on the /team page
 
+# =============================== SIJ ==========================================
+
 - name: Prof. Dr.-Ing. Spiros Alexopoulos
   role: German team coordinator # Will appear next to name
   image: assets/img/team/alexopoulos.jpg # Can be external link
@@ -7,6 +9,33 @@
     Project management, tasks supervision, consulting on the scientific scope of the project.
   # orcid: 0000-0000-0000-0000
   email: alexopoulos@sij.fh-aachen.de
+
+- name: Joachim Göttsche Dr. rer. nat.
+  role: Researcher # Will appear next to name
+  image: assets/img/team/gottsche.jpg # Can be external link
+  description: > # Can be Markdown
+    Description
+  # orcid: 0000-0000-0000-0000
+  email: goettsche@sij.fh-aachen.de
+
+- name: Dümmler Andreas, MSc
+  role: Researcher # Will appear next to name
+  image: assets/img/team/dummler.jpg # Can be external link
+  description: > # Can be Markdown
+    Description
+  # orcid: 0000-0000-0000-0000
+  email: goettsche@sij.fh-aachen.de
+
+
+- name: Mani Yousefpour
+  role: Researcher # Will appear next to name
+  image: assets/img/team/yousefpour.jpg # Can be external link
+  description: > # Can be Markdown
+    Description
+  # orcid: 0000-0000-0000-0000
+  email: mani.yousefpour@heliokon.com
+
+# =============================== LapUp ========================================
 
 - name: Prof. Athanassios Argiriou
   role: Greek team coordinator # Will appear next to name
@@ -18,47 +47,45 @@
   github: thanosargiriou
   twitter: twitter_name
 
-- name: Göttsche , Joachim Dr. rer. nat.
-  role: Researcher # Will appear next to name
-  image: assets/img/team/gottsche.jpg # Can be external link
-  description: > # Can be Markdown
-    Description
-  # orcid: 0000-0000-0000-0000
-  email: goettsche@sij.fh-aachen.de
+- name: Alex Dokouzis, MSc
+  role: Researcher
+  image: assets/img/team/dokouzis.jpg
+  description: >
+    Physicist, PhD candidate in LapUp. Working on optical simulations and experimental testing.
+  email: alexdokouzis@upatras.gr
 
-- name: Orestis Panagopoulos
+- name: George Kosmopoulos, MSc
+  role: Researcher
+  image: assets/img/team/kosmopoulos.jpg
+  description: >
+    Physicist, PhD candidate in LapUp. Working on management and dissemination.
+  email: giokosmopo@upatras.gr
+
+- name: Orestis Panagopoulos, MSc
   role: Researcher
   image: assets/img/team/panagopoulos.jpg
   description: >
-    MSc Physicist, PhD candidate in LapUp. Working on optical simulations data analysis and experimental testing.
+    Physicist, PhD candidate in LapUp. Working on optical simulations data analysis and experimental testing.
     Site author.
   email: orestis.panagopou@upatras.gr
   github: orestispanago
 
-- name: Alex Dokouzis
-  role: Researcher
-  image: assets/img/team/dokouzis.jpg
-  description: >
-    MSc Physicist, PhD candidate in LapUp. Working on optical simulations and experimental testing.
-  email: alexdokouzis@upatras.gr
-
-- name: George Kosmopoulos
-  role: Researcher
-  image: assets/img/team/kosmopoulos.jpg
-  description: >
-    MSc Physicist, PhD candidate in LapUp. Working on management and dissemination.
-  email: giokosmopo@upatras.gr
-
-- name: Kostas Vylliotis
+- name: Kostas Vylliotis, MSc
   role: Researcher
   image: assets/img/team/vylliotis.jpg
   description: >
-    MSc Physicist, PhD candidate in LapUp. Working on dissemination.
+    Physicist, PhD candidate in LapUp. Working on dissemination.
   email: phy4885@upatras.gr
 
-- name: Kostas Katsidimas
+- name: Kostas Katsidimas, MSc
   role: Technician
-  image: assets/img/team/katsidimas.jpg
+  # image: assets/img/team/katsidimas.jpg
   description: >
-    MSc Electrical Engineer, PhD candidate in LapUp. Working on experimental setup.
+    Electrical Engineer Working on experimental setup.
   email: katsidim@physics.upatras.gr
+
+# =============================== Hilger =======================================
+
+# =============================== Heliokon =====================================
+
+# =============================== Calpak =======================================
