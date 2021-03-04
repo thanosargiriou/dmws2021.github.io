@@ -8,46 +8,58 @@ categories: [Meetings]
 Recently, we were glad to attend a two-day Workshop, hosted at NCSR DEMOKRITOS
 in Athens, Greece. The workshop implemented a training approach for
 awareness-raising and empowerment of existing German-Greek research projects.
-
-Keynotes on knowledge transfer and exercises (practical application of knowledge)
-provided participants the opportunity to gain practical experience
- and hone their skills with regard to the transfer of knowledge
-
-and technology. Addressing individual motives, incentives and possible forms of commercialisation
-early in the process helps formulating a shared objective with regard to the commercialization of pro-
-ject outcomes, which is the aim of the first day of the training measure. On the second Workshop day,
-the formation of ideas plays a particular role in developing a shared objective for the commercialisa-
-tion of R&D results. Participants will form groups to identify practical applications of their R&D results
-(technological applications) in a first step and define in a second step unmet customer needs and
-work on a better understanding of these needs (market development).
-
-#### Tuesday
-
-The Greek perspective: Overview and Expectations and goals of the
-Greek-German Research and Innovation Program
-
-The German perspective: Expectations and goals of the Greek-German
-Research and Innovation Programme
-
-Reception upon invitation of the BMBF at the residence of the German Ambassador in Athens
+Keynotes on knowledge transfer and exercises provided the opportunity to gain
+practical experience and hone our skills on knowledge transfer.
+SIJ was represented by Prof. Alexopoulos, and UPatras by Mr Panagopoulos.
+Calpak's Mr. Sfinias participated as well.
 
 
-#### Wednesday
+##### Tuesday
 
-Overview of the Greek-German Research and Innovation Programme
+On day 1, after being welcomed by the Greek Alternate Minister for Education,
+Research and Religious Affairs and the German Parliamentary State Secretary to
+the Federal Minister of Education and Research, we were guided through the
+Greek and German perspectives on our bilateral cooperation agreement.
+The overview, expectations and goals of the Greek-German Research and
+Innovation Program were presented by Dr. Maria Christoula of GSRT and
+Gisela Cramer von Clausbruch of BMBF.
+The day ended with us being received upon invitation of the BMBF at the
+residence of the German Ambassador in Athens, where we had the opportunity to
+exchange ideas with partners in a warm and friendly atmosphere.
 
-Strategic networking to enhance knowledge and technology transfer in
-international cooperation
+##### Wednesday
 
-Create a Common Transfer Vision: What shall be transferred?
-(Presentation and parallel working groups)
+On day 2, Dr. Hans-Peter Niller of DLR outlined an overview of the Greek-German
+Research and Innovation Programme, while Manuel Molina Vogelsang
+of Fraunhofer IMW briefed us on strategic networking to enhance knowledge and
+technology transfer in international cooperation.
+With a common transfer vision was in mind as presented by Jördis Winkler of
+Fraunhofer IMW, the participants were separated in
+parallel working  groups, based on project subject relevance. Our group, related
+to energy, was guided by Dr. Julian Kahl of Fraunhofer IMW. Other groups
+included Health & Bio-Economy, Culture & Tourism and Materials & Key-Enabling
+Technologies.
+In the evening, Dr. Karen Böhme of PTJ aided us to summarize our findings,
+which were then showcased by 4 representatives of the working groups.
 
+##### Thursday
 
-#### Thursday
+On the last day, Dr. Karen Böhme summarized day 2 and provided an outlook on
+our tasks in hand. Wojciech Roskiewicz of Fraunhofer IMW explained ways to
+transfer results from research to market, and we were split to our groups and
+got to work. At 11:45, Dr. Steffen Preissler of Fraunhofer IMW coordinated
+a panel discussion, were 4 representatives from our parallel group sessions
+summarized the sessions' findings.
 
-From Research to Market: How the results can be transferred?
-(Presentation and parallel working groups)
+Following up Manuel Molina Vogelsang of Fraunhofer IMW provided an outlook on
+the workshop, noting interesting findings, before being farewelled by
+Gisela Cramer von Clausbruch of BMBF and Dr. Maria Christoula of GSRT.
 
-Panel discussion
+This workshop, yielded significant results on the Greek-German cooperation
+and the progress of its research projects. We were provided the opportunity to
+exchange ideas and discuss technical details on our projects and get informed on
+similar projects, opening the fields for potential cooperation with other
+Greek and German research institutions and companies.
 
-Farewell Greetings
+After the end of the workshop, Prof. Alexopoulos and Mr. Panagopoulos
+briefed the project partners on the workshop's findings and overall impressions.
