@@ -66,7 +66,7 @@ Each work package will also have a designated leader.
 
 ##### WP1. Evaluation of solar concentrator configurations
 
-Solar concentrator configurations for optimized integration of the system in  
+Solar concentrator configurations for optimized integration of the system in
 industrial and commercial buildings will be reviewed and evaluated.
 Solar thermal components and materials will be assessed in terms of suitability
 for medium temperature operation, cost and ease of application in building

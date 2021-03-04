@@ -2,6 +2,7 @@
 title: German-Greek Workshop on Knowledge and Technology Transfer
 description: 11-13 June 2019 in Athens, Greece
 background: /assets/img/athens.jpg
+author: [Orestis Panagopoulos]
 categories: [Meetings]
 ---
 
