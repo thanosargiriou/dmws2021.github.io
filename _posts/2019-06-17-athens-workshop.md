@@ -47,7 +47,8 @@ which were then showcased by 4 representatives of the working groups.
 On the last day, Dr. Karen Böhme summarized day 2 and provided an outlook on
 our tasks in hand. Wojciech Roskiewicz of Fraunhofer IMW explained ways to
 transfer results from research to market, and we were split to our groups and
-got to work. At 11:45, Dr. Steffen Preissler of Fraunhofer IMW coordinated
+got to work.
+At 11:45, Dr. Steffen Preissler of Fraunhofer IMW coordinated
 a panel discussion, were 4 representatives from our parallel group sessions
 summarized the sessions' findings.
 
@@ -56,7 +57,8 @@ the workshop, noting interesting findings, before being farewelled by
 Gisela Cramer von Clausbruch of BMBF and Dr. Maria Christoula of GSRT.
 
 This workshop, yielded significant results on the Greek-German cooperation
-and the progress of its research projects. We were provided the opportunity to
+and the progress of its research projects.
+We were provided the opportunity to
 exchange ideas and discuss technical details on our projects and get informed on
 similar projects, opening the fields for potential cooperation with other
 Greek and German research institutions and companies.

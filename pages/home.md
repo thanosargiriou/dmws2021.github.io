@@ -10,19 +10,12 @@ permalink: /
 **S**olar **Co**llectors with **S**tatic **Co**ncentrators  
 for applications at intermediate to medium temperatures
 
-The SCoSCo studies static concentrators combined with suitable tracked
-absorbers in order to adapt efficient solar thermal collector operation in
-intermediate temperatures with effective extension to medium temperatures,
-suitable also for building integration. These innovative solar systems are
-based on the effective use of the non-uniform distribution of the converged
-solar radiation on the focal plane of static concentrators. Two solar collector
-configurations with low concentration CPC static reflector are proposed. The
-first collector uses a tracking absorber that receives the concentrated solar
-rays and a second one, fully static, has an array of separate absorbers on the
-focal plane, selecting for the fluid flow the receivers with the higher
-concentration. The receivers in both systems consist of absorbers in evacuated
-tubes; a suitable secondary absorber can be applied, operating in lower
-temperatures by using the diffuse radiation.
+The SCoSCo project studies static concentrators in order to adapt efficient
+solar thermal collector operation in intermediate temperatures with effective
+extension to medium temperatures, suitable also for building integration.
+These innovative solar systems are based on the effective use of the
+non-uniform distribution of the converged solar radiation on the focal plane of
+the concentrator.
 
 The above collectors will be compared with two lower cost static solar thermal
 systems, an efficient flat plate collector and an evacuated tube collector,
