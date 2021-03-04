@@ -121,9 +121,12 @@ System behavior with absorption chillers will be investigated.
 
 ##### WP7. Techno-economic analysis of the developed systems
 The techno-economic analysis of the developed systems will consist of:  
-i)  performance analysis, ii) design analysis, iii) cost analysis
-iv) SWOT analysis v) life cycle product analysis and
-vi) CO2 offsetting analysis.
+1. Performance analysis
+2. Design analysis
+3. Cost analysis
+4. SWOT analysis
+5. Life cycle product analysis
+6. CO2 offsetting analysis.
 
 ##### WP8. Dissemination and public awareness
 
@@ -136,11 +139,11 @@ The following table shows the time table with 3 milestones.
 Other activities will include:
 1. Production and dissemination of documents and awareness raising material for
 likely users and other stakeholders, technical staff, policy-makers and
-partners as well as the general public
+partners as well as the general public.
 2. Submission of research papers to internationally recognized
 journals and conferences, to disseminate knowledge within the scientific
-community
-3. Presentation of the system in trade literature
+community.
+3. Presentation of the system in trade literature.
 
 
 The work packages will be implemented according to the following timetable
