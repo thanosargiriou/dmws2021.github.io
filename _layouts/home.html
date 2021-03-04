@@ -9,6 +9,53 @@ remark: See also page.layout == 'home' in head.html and jumbotron.html
   {% assign twitter_feed = true %}
 {% endif %}
 
+<div class="container">
+    <div class="row text-center mt-5 mb-5 d-flex justify-content-center">
+        <div class="col-12">
+            <h2 class="mt-5 mb-4 pt-1">Towards developing industrial Solar Heat Collectors</h2>
+        </div>
+    </div>
+</div>
+<div class="container">
+  <div class="row">
+      <div class="col text-center">
+            <img class="mx-auto mb-4" src='https://www.iqair.com/assets/img/enterprise/air-api/il-world-coverage.svg' alt="world-wide coverage icon" />
+            <h5>Objectives</h5>
+            <p class="text-justify">Aiming to provide heat at 150°C using solar thermal collectors.
+                Static concentrators are used to take advantage of the non-uniform distribution of reflected sun rays.
+                Our innovative design is robust, having few and fully enclosed moving parts</p>
+      </div>
+      <div class="col text-center">
+              <img class="mx-auto mb-4" src="https://www.iqair.com/assets/img/enterprise/air-api/il-ai.svg" alt="artificial intelligence icon"/>
+              <h5>Methods</h5>
+              <p class="text-justify">Validating our predictions against real data.
+                  The optical behavior of the proposed systems
+                  are modeled extensively to ensure optimal performance.
+                  The constructed prototypes will be tested experimentally in outdoor conditions.
+              </p>
+      </div>
+      <div class="col text-center">
+              <img class="mx-auto mb-4" src='https://www.iqair.com/assets/img/enterprise/air-api/il-support.svg' alt="customer support icon" />
+              <h5>Outcome</h5>
+              <p class="text-justify">Prototype devices with high market potential will be constructed, aiming to fil a market gap.
+                  State of the art technology will be applied and tested during the process.
+                  Practical knowledge will be transfered from research to the industry</p>
+      </div>
+  </div>
+</div>
+<hr>
+<div class="container">
+  <div class="row mt-5 mb-5 justify-content-center">
+      <div class="col-5 text-center">
+          <h2>Consortium</h2>
+          <p class="text-justify">Our team consists of two research institutions with long experience in the field of
+          Solar Thermal Systems and three small and medium enterprises with high expertise in the design and
+          manufacturing of solar collectors and tracking systems.
+      </p>
+      </div>
+  </div>
+</div>
+
 <div class="row">
   <div class="{% if twitter_feed %}col{% else %}col-md-10 col-lg-8 mx-auto{% endif %}">
     <div class="row">
@@ -27,7 +74,7 @@ remark: See also page.layout == 'home' in head.html and jumbotron.html
       </div>
     {% endif %}
     </div>
-    
+
   {% if site.posts_on_home > 0 %}
     <div class="row cards mt-4">
     {% for post in site.posts limit:site.posts_on_home %}
@@ -38,4 +85,3 @@ remark: See also page.layout == 'home' in head.html and jumbotron.html
     </div>
   {% endif %}
 </div>
-
