@@ -5,186 +5,90 @@ background: /assets/img/background.jpg
 permalink: /about/
 ---
 
-See [`pages/about.md`](https://raw.githubusercontent.com/peterdesmet/petridish/master/pages/about.md) for the raw Markdown of this page.
 
-## Headings
-
-# Heading h1
-## Heading h2
-### Heading h3
-#### Heading h4
-##### Heading h5
-###### Heading h6
-###### Heading with custom id {#custom_id}
-
-{: .alert .alert-info }
-It's best to start page/post headings at h2, since the page/post title will already be an h1.
-
-## Paragraphs
-
-Set i won't void spirit all. Had after called us It wherein Tree in deep abundantly also midst Seed. Beast. Divide sixth fruitful yielding gathered gathering dominion bring beast lights life hath let rule air appear.
-
-Bring let rule creature. Very open hath to years. In second kind. Divide land night. Earth bearing tree lesser likeness likeness won't. Likeness creature light.
-
-## Line breaks
-
-This is the first line.  
-And this is the second line.
-
-## Emphasis
-
-This is **bold text**
-
-This is _italicized text_
-
-This is **_bold italicized text_**
-
-This is ~~strikethrough text~~
-
-## Blockquotes
-
-> Gathering brought him green. Creeping very after hath a, from likeness dry tree moved dry fowl. Our let forth, male dry won't god. Kind a thing, dominion lights midst him gathering waters fruitful greater god have dry land deep abundantly.
-
-## Lists
-
-Unordered list:
-
-- Item 1
-- Item 2
-- Item 3
-  - Subitem 1
-  - Subitem 2
-
-Ordered list:
-
-1. Item 1
-2. Item 2
-3. Item 3
-    1. Subitem 1
-    2. Subitem 2
-
-Task list:
-
-- [x] Item 1
-- [ ] Item 2
-- [ ] Item 3
-
-Definition list:
-
-term 1
-: definition 1.1
-: definition 1.2
-
-term 2
-: definition 2
-
-## Code
-
-Inline `code`
-
-Indented code:
-
-    # Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
-
-Fenced code with syntax highlighting:
-
-```js
-const greet = (text) => "Hello " + text;
-
-// Test
-console.log(greet("world"));
-```
-
-## Horizontal rules
-
----
-
-## Links
-
-[link with url](http://www.example.com)
-
-[link with title](http://www.example.com "title text")
-
-[1]: http://www.example.com
-
-[link with reference][1]
-
-url: <http://www.example.com>
-
-See the [Jekyll documentation](https://jekyllrb.com/docs/liquid/tags/#link) to create internal links. All internal links start from the `url` in `_config.yml`.
-
-The safest (and verbose) way for internal links is:
-
-- For pages: {% raw %}`[link text]({{ site.baseurl }}{% link pages/about.md %})`{% endraw %}
-- For posts: {% raw %}`[link text]({{ site.baseurl }}{% link _posts/2010-07-21-name-of-post.md %})`{% endraw %} or the shorter {% raw %}`[link text]({{ site.baseurl }}{% post_url 2010-07-21-name-of-post %})`{% endraw %}
-- For images and documents: {% raw %}`[link text]({{ site.baseurl }}{% link /assets/images/name-of-image.jpg %})`{% endraw %}
-
-If you don't have a `baseurl` in `_config.yml`, don't plan to change permalinks (it's better not to anyway) and don't want page build failures when a link is broken, you can get away using the (perma)links the pages, images and documents will have on your website:
-
-- For pages: `[link text](/about/)`
-- For posts: {% raw %}`[link text]({% post_url 2010-07-21-name-of-post %})`{% endraw %}
-- For images and documents: `[link text](/assets/images/name-of-image.jpg)`
-
-## Tables
-
-Header 1 | Header 2
---- | ---
-Row 1 col 1 | Row 1 col 2
-Row 2 col 1 | Row 2 col 2
-
-Aligned columns:
-
-Right aligned | Center aligned
----: | :---:
-Row 1 col 1 | Row 1 col 2
-Row 2 col 1 | Row 2 col 2
-
-## Footnotes
-
-Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote.
-
-## Images
-
-![alt text](https://images.unsplash.com/photo-1486825586573-7131f7991bdd?w=1000&h=200&fit=crop)
-_You can add an image caption by including an `_emphasized sentence_` directly below the image without inserting a new line. This will wrap both image and caption in a paragraph._
-
-See the [the links section](#links) to learn how to reference your own images and documents.
-
-## Styling content
-
-With the Kramdown Markdown parser that Jekyll uses, you can add css classes to your content (see this [blog post](https://digitaldrummerj.me/styling-jekyll-markdown/)). By sticking to [Bootstrap](https://getbootstrap.com/docs/4.3/) classes, you can easily style your content. If that doesn't fit your needs, you can always write html in your Markdown.
-
-### Alerts
-
-[Bootstrap documentation](https://getbootstrap.com/docs/4.3/components/alerts/)
-
-{: .alert .alert-info}
-Alert info message. This paragraph is styled by prepending it with `{: .alert .alert-info}`.
-
-### Aligning images
-
-[Bootstrap documentation](https://getbootstrap.com/docs/4.3/content/images/#aligning-images)
-
-By default, images will be centered horizontally and use the full width if they can.
-
-The image below is wrapped in a paragraph with `{: .col-md-8 .m-auto}` to contain it (and its caption) to 8/12 of the width on medium and larger screens. On small screens the full width will be used. Controlling the width of an image is especially useful for portrait images.
-
-{: .col-md-8 .m-auto}
-![alt text](https://images.unsplash.com/photo-1486825586573-7131f7991bdd?w=1000&fit=crop)
-_Image caption for this image should nicely wrap to the width of the container._
-
-The image below is styled with `{: .rounded .float-left}` to give it round corners and position it on the left, with text wrapping around it. You can use `{: .clearfix}` on a paragraph to stop wrapping.
-
-![alt text](https://images.unsplash.com/photo-1486825586573-7131f7991bdd?w=150&h=150&fit=crop){: .rounded .float-left}
-
-Tree man. Gathering unto give gathered. Midst they're. After image appear. Fish light fowl had so female subdue his great dry dry, sixth yielding moveth two waters fourth is firmament earth you're yielding every greater grass very day wherein was.
-
-Itself meat. Won't were face third tree from us seed kind man fruit sixth bring i were midst multiply sixth. Cattle let, creeping fruit good whales very. There void So their you living. Appear two cattle kind man air rule signs.
-
-{: .clearfix}
-Life brought good appear good grass air abundantly a. Life. Rule be brought unto. Fly days fruit evening. Us.
+The proposed project activities and their associated dependencies are detailed below.
+
+#### WP0. Project Management
+
+This activity aims at ensuring that project objectives are adequately achieved,
+on time and within the estimated budget.
+It requires coordination of all work developed, overseeing the tasks and work
+packages, ensuring the development and testing of deliverables, and also
+reporting to the EC.
+Each work package will also have a designated leader.
+
+#### WP1.Evaluation of solar concentrator configurations
+
+Solar concentrator configurations for optimized integration of the system in  
+industrial and commercial buildings will be reviewed and evaluated.
+Solar thermal components and materials will be assessed in terms of suitability
+for medium temperature operation, cost and ease of application in building
+integrated systems.
+
+#### WP2.Optical design and modelling of systems and tracking methods
+
+Based on the evaluation of activity 2, optical components for systems will be
+designed and modeled to evaluate optical performance.
+Three dimensional simulations will be carried out for different installation
+configurations.
+Tracking methods suitable for implementation by the designed systems will be
+developed.
+
+#### WP3.Thermal modelling of system and components
+
+The thermal performance of the designed systems and their individual components
+will be modelled to assess their suitability in achieving the performance
+targets in the medium temperature range.
+Using predictions (from activity 3) of solar radiation collection efficiency
+and expected effective concentration levels on the tracking absorber, the
+thermal performance for different installation scenarios will be investigated.
+
+
+#### WP4.Systems optimisation
+
+Findings from the optical and thermal analysis (activities 3 and 4,
+respectively) and the developed tracking methods (activity 3) will be used
+to optimise the designed systems for 50% thermal efficiency target at 250°C
+operating temperature to use the medium temperature heat for space cooling
+applications and offer the relative advantages easy integration in industrial
+buildings, and production of low temperature heat.
+
+#### WP5.Fabrication and indoor experimental characterisation of system components
+
+ Components of the systems will be fabricated by the SME and industrial project
+ partners.
+ The fabricated components will be tested in an indoor controlled environment.
+ Thermal testing of the fabricated system components will be carried out to
+ ensure that they have reliable and efficient operation in the medium
+ temperature range and can tolerate extreme operating conditions.
+ Cross-validation of the test results with the thermal modelling will take
+ place to predict realistic thermal performance under different operating
+ scenarios.
+
+#### WP6.Prototype system assembly and optimisation via outdoor experimental testing
+
+Prototype systems will be assembled for outdoor installation and experimental
+characterisation in Greece. Intrusive experimental testing will take place to
+determine component and overall system performance in realistic conditions.
+System behavior with absorption chillers will be investigated.
+
+#### WP7.Techno -economic analysis of the developed systems
+The techno-economic analysis of the developed systems will consist of:  
+i)  performance analysis, ii) design analysis, iii) cost analysis
+iv) SWOT analysis v) life cycle product analysis and
+vi) CO2offsetting analysis.
+
+#### WP8:Dissemination and public awareness
+
+A project Web site will be set up that will allow up-to-date  
+information about the project status and outcomes to be available to the
+general public, stake-holders and project partners.
+Confidential information and data will be stored in a restricted area, which
+will be accessed via user authentication.
+The following table shows the time tablewith 3 milestones.
+Other activities will include:(i) Production and dissemination of documents
+and awareness raising material for likely users and other stakeholders,  
+technical staff, policy-makers and partners as well as the general  
+public(ii) Submission of research papers to internationally recognized
+journals and conferences, to disseminate knowledge within the scientific
+community(iii) Presentation of the system in trade literature a
