@@ -144,4 +144,4 @@ community
 
 
 The work packages will be implemented according to the following timetable
-![alt text](/assets/img/timetable.png)
+![timetable](/assets/img/timetable.png)

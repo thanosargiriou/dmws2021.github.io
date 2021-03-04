@@ -1,7 +1,7 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
-  href: /
+# - text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
+#   href: /
 - text: About
   href: /about/
 - text: Team
@@ -13,8 +13,6 @@
   - text: "Publications" # Title for block of menu items
   - text: EuroSun 2020
     href: /downloads/SCoSCo_EuroSun2020.pdf
-  - text: Page 2
-    href: /about/
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
   - text: "Deliverables" # Title for block of menu items
   - text: Work package 1

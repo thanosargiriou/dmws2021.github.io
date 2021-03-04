@@ -10,26 +10,4 @@ permalink: /
 **S**olar **Co**llectors with **S**tatic **Co**ncentrators  
 for applications at intermediate to medium temperatures
 
-The SCoSCo project studies static concentrators in order to adapt efficient
-solar thermal collector operation in intermediate temperatures with effective
-extension to medium temperatures, suitable also for building integration.
-These innovative solar systems are based on the effective use of the
-non-uniform distribution of the converged solar radiation on the focal plane of
-the concentrator.
-
-The above collectors will be compared with two lower cost static solar thermal
-systems, an efficient flat plate collector and an evacuated tube collector,
-combined with flat reflectors in front of them as booster reflectors,
-to increase operating temperature and thermal output. These low concentration
-collectors aim to efficient solar thermal applications in the range of
-100°C to 250°C, for solar thermal cooling, process heat in industry,
-desalination, water treatment, etc.
-
-The SCoSCo project partners are from the German side the
-Solar-Institut Jülich (SIJ),  Heliokon GmbH and Hilger GmbH.
-From the Hellenic side, it is the University of Patras (UPAT) and Calpak S.A..
-The main responsibility of the German part is the design, the determination of
-the used materials and the operation requirements of the new concentrating
-solar systems. The Hellenic part, being the main supporter of the project
-concept, will work mainly in leading the construction and testing of the
-collectors in outdoors conditions.
+![partners](/assets/img/partners.png)
