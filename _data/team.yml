@@ -15,6 +15,7 @@
   description: > # Can be Markdown
     Project controlling, ray-tracing, thermal simulation
   email: goettsche@sij.fh-aachen.de
+  researchgate: Joachim-Goettsche
 
 - name: Dümmler Andreas, MSc
   role: Researcher # Will appear next to name
@@ -33,12 +34,14 @@
   email: athanarg@upatras.gr
   github: thanosargiriou
 
-- name: Alex Dokouzis, Dr
+- name: Alexandros Dokouzis, Dr.
   role: Researcher
   image: assets/img/team/dokouzis.jpg
   description: >
-    Physicist, working on optical simulations and experimental testing.
+    Physicist in the Renewable Energy Laboratory, Department of Physics, University of Patras.
+    Working on optical simulations and experimental testing.
   email: alexdokouzis@upatras.gr
+  researchgate: Alexandros-Panagiotis-Dokouzis
 
 - name: George Kosmopoulos, MSc
   role: Researcher
@@ -56,6 +59,7 @@
     Website author.
   email: orestis.panagopou@upatras.gr
   github: orestispanago
+  researchgate: Orestis-Panagopoulos-2
 
 - name: Kostas Vylliotis, MSc
   role: Researcher
