@@ -20,7 +20,8 @@ columns:
     - text: Heliokon GmbH
       href: https://www.heliokon.com/
       new_window: true
-  - description: The research project "SCoSCo" is co-funded by the  German Federal Ministry of Education and Research and the Hellenic Secretariat for Research and Technology in the framework of the Greek-German co-operation.
+  # - description: The research project "SCoSCo" is co-funded by the  German Federal Ministry of Education and Research and the Hellenic Secretariat for Research and Technology in the framework of the Greek-German co-operation.
+  - description: Υπουργείο Ανάπτυξης και Επενδύσεων, Τενική Γραμματεία Έρευνας και Τεχνολογίας, Διμερής και Πολυμερής Ε&Τ Συνεργασία Ελλάδας –Γερμανίας
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml

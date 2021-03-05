@@ -1,15 +1,20 @@
 <footer>
   <div class="container">
     <div class="row">
-      <div class="col-lg">
-          <div class="col-sm-6">
+      <div class="column">
+          <div class="col-sm-5">
+              <figure>
+                  <img src="/assets/img//ee_logo.png" class="img-fluid float-left ">
+              </figure>
+          </div>
+      </div>
+      <div class="col-sm-3">
+          <div class="col-sm-7">
               <figure>
                   <img src="/assets/img//espa_logo.png" class="img-fluid float-left ">
               </figure>
           </div>
-
       </div>
-
       {% for col in site.data.footer.columns %}
       <div class="col-lg">
         {{ col.description | markdownify }}
