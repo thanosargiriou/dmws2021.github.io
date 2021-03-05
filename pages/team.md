@@ -2,7 +2,7 @@
 layout: team
 title: Team
 description: Who we are
-background: /assets/img/team.jpg
+background: /assets/img/background.jpg
 permalink: /team/
 ---
 
