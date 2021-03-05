@@ -1,6 +1,6 @@
 # SITE SETTINGS
 title: SCoSCo project                   # Title in top navigation bar (navbar) and <head>
-description: Solar Heat Collectors research project # Site description in <head>
+description: Solar Thermal Collectors research project # Site description in <head>
 author: Orestis Panagopoulos                    # Used for copyright statement in footer
 # url: "https://peterdesmet.github.io"  # No slash at the end
 # baseurl: "/petridish"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
