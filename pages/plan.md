@@ -1,6 +1,6 @@
 ---
 title: Plan
-description: Work schedule description
+description: Our work schedule
 background: /assets/img/background.jpg
 permalink: /plan/
 ---

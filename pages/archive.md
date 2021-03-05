@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: News
-description: News & blog posts
+description: Our progress
 background: /assets/img/background.jpg
 permalink: /blog/
 ---

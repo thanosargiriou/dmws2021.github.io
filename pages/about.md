@@ -1,6 +1,6 @@
 ---
 title: About
-description: Detailed project description
+description: Brief project description
 background: /assets/img/background.jpg
 permalink: /about/
 ---
