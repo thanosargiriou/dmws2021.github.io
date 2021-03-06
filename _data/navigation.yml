@@ -2,25 +2,25 @@
 
 # - text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
 #   href: /
-- text: About
-  href: /about/
-- text: Team
-  href: /team/
-- text: Plan
-  href: /plan
-- text: News
-  href: /blog/
-- text: Downloads
-  menu: # Dropdown menu (one level deep only)
-  - text: "Publications" # Title for block of menu items
-  - text: EuroSun 2020
-    href: /downloads/SCoSCo_EuroSun2020.pdf
-  - text: IHT 2021
-    href: /downloads/SCoSCo_IHT2021.pdf
-  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Deliverables" # Title for block of menu items
-  - text: Work package 1
-    href: /downloads/SCoSCo_D1_final.pdf
-  - text: Work package 2
-    href: /downloads/SCoSCo_D2_final.pdf
-    # new_window: false
+# - text: About
+#   href: /about/
+# - text: Team
+#   href: /team/
+# - text: Plan
+#   href: /plan
+# - text: News
+#   href: /blog/
+# - text: Downloads
+#   menu: # Dropdown menu (one level deep only)
+#   - text: "Publications" # Title for block of menu items
+#   - text: EuroSun 2020
+#     href: /downloads/SCoSCo_EuroSun2020.pdf
+#   - text: IHT 2021
+#     href: /downloads/SCoSCo_IHT2021.pdf
+#   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+#   - text: "Deliverables" # Title for block of menu items
+#   - text: Work package 1
+#     href: /downloads/SCoSCo_D1_final.pdf
+#   - text: Work package 2
+#     href: /downloads/SCoSCo_D2_final.pdf
+#     # new_window: false

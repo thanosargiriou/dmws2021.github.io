@@ -1,16 +1,16 @@
 # SITE SETTINGS
-title: SCoSCo project                   # Title in top navigation bar (navbar) and <head>
-description: Solar Thermal Collectors research project # Site description in <head>
-author: Orestis Panagopoulos                    # Used for copyright statement in footer
+title: Data management workshop 2021              # Title in top navigation bar (navbar) and <head>
+description: Data management workshop 2021 # Site description in <head>
+author: Athanassios Argiriou                    # Used for copyright statement in footer
 # url: "https://peterdesmet.github.io"  # No slash at the end
 # baseurl: "/petridish"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/about/#links
 
 # SOCIAL PROFILES
-email: orestispanago@gmail.com            # Social icon in footer
+email: athanarg@upatras.gr            # Social icon in footer
 # twitter_username: peterdesmet           # Social icon in footer
-github_username: orestispanago            # Social icon in footer
+github_username: thanosargiriou            # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
 posts_on_home: 0                        # Show x number of latest posts on homepage, can be 0
